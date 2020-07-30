@@ -1,0 +1,4 @@
+#Fri Jul 31 01:16:29 SGT 2020
+base.0=C\:\\Users\\USER\\Desktop\\Year 2 Sem 1\\Mobile Application Development\\FragmentExample2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
